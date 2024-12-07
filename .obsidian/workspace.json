@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f870d598cf1aba57",
+        "id": "1e81e1b28edd702f",
         "type": "tabs",
         "children": [
           {
-            "id": "63a0137162c7d9f9",
+            "id": "a64eaba5f925feaa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Learning/MongoDB/Beginning.canvas",
-                "viewState": {
-                  "x": -1402.4309465836855,
-                  "y": -1609.8509029934944,
-                  "zoom": -0.7721144426607509
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Beginning"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -55,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#insertOne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,13 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e2d77f2e0d38222",
+  "active": "a64eaba5f925feaa",
   "lastOpenFiles": [
+    "Learning/MongoDB/Beginning.canvas",
+    "Learning/MongoDB/Beginning.md",
+    "Learn2/Beginning.canvas",
+    "Learn2/Beginning.md",
+    "Learn2",
     "Learning/Learning",
     "AAA",
     "ثبت نام تامین کننده.md",
-    "Learning/MongoDB/Beginning.canvas",
-    "Learning/MongoDB/Beginning.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
